@@ -2,5 +2,5 @@
 
 added for branch mylocal1
 
-added for branch myfeature1
+added for branch myfeature1 on github
 
